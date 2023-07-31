@@ -1,0 +1,415 @@
+{
+  "events": [
+    {
+      "title": "University",
+      "image": "https://picsum.photos/id/193/200/300",
+      "date": "2022-10-01",
+      "description": "Lorem ebsum Lorem Lorem",
+      "id": "1"
+    },
+    {
+      "title": "Malls",
+      "image": "https://picsum.photos/id/358/200/300",
+      "date": "2022-10-01",
+      "description": "Lorem ebsum Lorem Lorem",
+      "id": "2"
+    },
+    {
+      "title": "Schools",
+      "image": "https://picsum.photos/id/444/200/300",
+      "date": "2022-10-01",
+      "description": "Lorem ebsum Lorem Lorem",
+      "id": "3"
+    },
+    {
+      "title": "Sports Club",
+      "image": "https://picsum.photos/id/585/200/300",
+      "date": "2022-10-01",
+      "description": "Lorem ebsum Lorem Lorem",
+      "id": "4"
+    }
+  ],
+
+  "users": [
+    {
+      "name": "Ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "$2a$12$umfjMbN/7fJQYaD5V.JEXOnmLV8JrGK0uqZNMS2iPVLJbpyRyUOhK",
+      "id": "7c5a0c3e-dff9-4dd9-9837-09b565921d51"
+    },
+    {
+      "name": "Doaa",
+      "email": "doaa@gmail.com",
+      "password": "$2a$12$xYxt5i2rXQ5Vj3PNKIbOYeZ4MS3w5Rw95qaaPiIfp0sWwPzBeaz5u",
+      "id": "59d01e6d-a02b-4d16-ae05-4ea1a20afbd0"
+    },
+    {
+      "name": "Wessam",
+      "email": "wessam@gmail.com",
+      "password": "$2a$12$mEKCOnHoDPQtfmCMoRmTg.Q5RC9uBll.AUboOsnY.jdRHUdSUT4/a",
+      "id": "b5b40a4e-539e-4bff-a9e4-49d0f76a3b36"
+    }
+  ],
+
+  "parcels": [
+    {
+      "id": "1",
+      "parcels": [
+        {
+          "id": 1,
+          "title": "parcel1",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.029025894741707, 31.758735477391582],
+            [30.029025894741707, 31.76122288732816],
+            [30.031594984790928, 31.76122288732816],
+            [30.031594984790928, 31.758735477391582],
+            [30.029025894741707, 31.758735477391582]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "parcel2",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.031746105661227, 31.758691838619967],
+            [30.031746105661227, 31.761310164870395],
+            [30.033068403447388, 31.761310164870395],
+            [30.033068403447388, 31.758691838619967],
+            [30.031746105661227, 31.758691838619967]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "parcel3",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.03321952207105, 31.758735477391582],
+            [30.03321952207105, 31.761310164870395],
+            [30.034541800198937, 31.761310164870395],
+            [30.034541800198937, 31.758735477391582],
+            [30.03321952207105, 31.758735477391582]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "2",
+      "parcels": [
+        {
+          "id": 1,
+          "title": "parcel1",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.029025894741707, 31.758735477391582],
+            [30.029025894741707, 31.76122288732816],
+            [30.031594984790928, 31.76122288732816],
+            [30.031594984790928, 31.758735477391582],
+            [30.029025894741707, 31.758735477391582]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "parcel2",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.031746105661227, 31.758691838619967],
+            [30.031746105661227, 31.761310164870395],
+            [30.033068403447388, 31.761310164870395],
+            [30.033068403447388, 31.758691838619967],
+            [30.031746105661227, 31.758691838619967]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "parcel3",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.03321952207105, 31.758735477391582],
+            [30.03321952207105, 31.761310164870395],
+            [30.034541800198937, 31.761310164870395],
+            [30.034541800198937, 31.758735477391582],
+            [30.03321952207105, 31.758735477391582]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "3",
+      "parcels": [
+        {
+          "id": 1,
+          "title": "parcel1",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.029025894741707, 31.758735477391582],
+            [30.029025894741707, 31.76122288732816],
+            [30.031594984790928, 31.76122288732816],
+            [30.031594984790928, 31.758735477391582],
+            [30.029025894741707, 31.758735477391582]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "parcel2",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.031746105661227, 31.758691838619967],
+            [30.031746105661227, 31.761310164870395],
+            [30.033068403447388, 31.761310164870395],
+            [30.033068403447388, 31.758691838619967],
+            [30.031746105661227, 31.758691838619967]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "parcel3",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.03321952207105, 31.758735477391582],
+            [30.03321952207105, 31.761310164870395],
+            [30.034541800198937, 31.761310164870395],
+            [30.034541800198937, 31.758735477391582],
+            [30.03321952207105, 31.758735477391582]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "4",
+      "parcels": [
+        {
+          "id": 1,
+          "title": "parcel1",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.029025894741707, 31.758735477391582],
+            [30.029025894741707, 31.76122288732816],
+            [30.031594984790928, 31.76122288732816],
+            [30.031594984790928, 31.758735477391582],
+            [30.029025894741707, 31.758735477391582]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "parcel2",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.031746105661227, 31.758691838619967],
+            [30.031746105661227, 31.761310164870395],
+            [30.033068403447388, 31.761310164870395],
+            [30.033068403447388, 31.758691838619967],
+            [30.031746105661227, 31.758691838619967]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "parcel3",
+          "meterPrice": "20000",
+          "landNumber": "K70",
+          "districtName": "district 39",
+          "netLandArea": "1000",
+          "financialLandArea": "1200",
+          "uniqueCode": "342",
+          "geom": [
+            [30.03321952207105, 31.758735477391582],
+            [30.03321952207105, 31.761310164870395],
+            [30.034541800198937, 31.761310164870395],
+            [30.034541800198937, 31.758735477391582],
+            [30.03321952207105, 31.758735477391582]
+          ],
+          "attachments": [
+            { "name": "Project description pdf file", "path": "/path" },
+            {
+              "name": "Firm description and objective pdf file",
+              "path": "/path"
+            },
+            {
+              "name": "Rvt or ifc file for displaying the building",
+              "path": "/viewer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
